@@ -31,7 +31,7 @@
 
     // Add callback to file manager
     fm.$store.commit('fm/setFileCallBack', function(fileUrl) {
-      window.opener.fmSetLink(fileUrl);
+      window.opener.postMessage(fileUrl, '*');
       window.close();
     });
   });

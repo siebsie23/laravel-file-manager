@@ -39,9 +39,9 @@
             mceAction: 'insert',
             content: URL,
             text: URL.split('/').pop()
-        })
+        }, '*')
         // close popup window
-        parent.postMessage({ mceAction: 'close' });
+        parent.postMessage({ mceAction: 'close' }, '*');
       }
     };
 
