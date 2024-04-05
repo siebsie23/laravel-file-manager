@@ -11,6 +11,10 @@
             "name": "Aleksandr Manekin",
             "email": "alexusmai@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "siebsie23",
+            "role": "Developer"
         }
     ],
     "homepage": "https://github.com/siebsie23/laravel-file-manager",

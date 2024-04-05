@@ -1,12 +1,12 @@
 # Laravel File Manager
 
-[![Latest Stable Version](http://poser.pugx.org/alexusmai/laravel-file-manager/v)](https://packagist.org/packages/alexusmai/laravel-file-manager)
-[![Total Downloads](http://poser.pugx.org/alexusmai/laravel-file-manager/downloads)](https://packagist.org/packages/alexusmai/laravel-file-manager)
-[![Latest Unstable Version](http://poser.pugx.org/alexusmai/laravel-file-manager/v/unstable)](https://packagist.org/packages/alexusmai/laravel-file-manager)
-[![License](http://poser.pugx.org/alexusmai/laravel-file-manager/license)](https://packagist.org/packages/alexusmai/laravel-file-manager)
-[![PHP Version Require](http://poser.pugx.org/alexusmai/laravel-file-manager/require/php)](https://packagist.org/packages/alexusmai/laravel-file-manager)
+[![Latest Stable Version](http://poser.pugx.org/siebsie23/laravel-file-manager/v)](https://packagist.org/packages/siebsie23/laravel-file-manager)
+[![Total Downloads](http://poser.pugx.org/siebsie23/laravel-file-manager/downloads)](https://packagist.org/packages/siebsie23/laravel-file-manager)
+[![Latest Unstable Version](http://poser.pugx.org/siebsie23/laravel-file-manager/v/unstable)](https://packagist.org/packages/siebsie23/laravel-file-manager)
+[![License](http://poser.pugx.org/siebsie23/laravel-file-manager/license)](https://packagist.org/packages/siebsie23/laravel-file-manager)
+[![PHP Version Require](http://poser.pugx.org/siebsie23/laravel-file-manager/require/php)](https://packagist.org/packages/siebsie23/laravel-file-manager)
 
-![Laravel File Manager](https://raw.github.com/alexusmai/vue-laravel-file-manager/master/src/assets/laravel-file-manager.gif?raw=true)
+![Laravel File Manager](https://raw.github.com/siebsie23/vue-laravel-file-manager/master/src/assets/laravel-file-manager.gif?raw=true)
 
 **Vue.js Frontend:** [alexusmai/vue-laravel-file-manager](https://github.com/alexusmai/vue-laravel-file-manager)
 
