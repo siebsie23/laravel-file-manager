@@ -314,19 +314,6 @@ class FileManager
      */
     public function thumbnails($disk, $path): mixed
     {
-        if ($this->configRepository->getCache()) {
-            $thumbnail = Image::cache(function ($image) use ($disk, $path) {
-                $image->make(Storage::disk($disk)->get($path))->fit(80);
-            }, $this->configRepository->getCache());
-
-            // output
-            return response()->make(
-                $thumbnail,
-                200,
-                ['Content-Type' => Storage::disk($disk)->mimeType($path)]
-            );
-        }
-
         $thumbnail = Image::make(Storage::disk($disk)->get($path))->fit(80);
 
         return $thumbnail->response();
